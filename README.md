@@ -6,9 +6,7 @@ This template should help get you started developing with Tauri and Yew.
 
 ```bash
 rustup target add wasm32-unknown-unknown
-cargo install trunk
-cargo install wasm-bindgen-cli
-cargo install tauri-cli
+cargo install trunk wasm-bindgen-cli tauri-cli
 ```
 
 # Running
