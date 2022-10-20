@@ -1,6 +1,8 @@
 # FastWave Frontend
 
-I'm now attempting to develop the [FastWave](https://github.com/ThePerfectComputer/FastWaveBackend) Frontend with Tauri instead of [with egui](https://github.com/ThePerfectComputer/FastWaveFrontend-eGUI).
+I'm now attempting to develop the [FastWave](https://github.com/ThePerfectComputer/FastWaveBackend) Frontend with Tauri instead of with egui.
+
+[Here is the old frontend version.](https://github.com/ThePerfectComputer/FastWaveFrontend-eGUI).
 
 # Dependencies
 
