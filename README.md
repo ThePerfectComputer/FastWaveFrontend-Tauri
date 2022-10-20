@@ -2,7 +2,7 @@
 
 I'm now attempting to develop the [FastWave](https://github.com/ThePerfectComputer/FastWaveBackend) Frontend with Tauri instead of with egui.
 
-[Here is the old frontend version.](https://github.com/ThePerfectComputer/FastWaveFrontend-eGUI).
+[Here is the old frontend version](https://github.com/ThePerfectComputer/FastWaveFrontend-eGUI).
 
 # Supported Features
 What features would you like to see? Please create a Github issue.
