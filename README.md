@@ -1,6 +1,6 @@
-# Tauri + Yew
+# FastWave Frontend
 
-This template should help get you started developing with Tauri and Yew.
+I'm now attempting to develop the [FastWave](https://github.com/ThePerfectComputer/FastWaveBackend) Frontend with Tauri instead of [with egui](https://github.com/ThePerfectComputer/FastWaveFrontend-eGUI).
 
 # Dependencies
 
