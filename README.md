@@ -4,6 +4,9 @@ I'm now attempting to develop the [FastWave](https://github.com/ThePerfectComput
 
 [Here is the old frontend version.](https://github.com/ThePerfectComputer/FastWaveFrontend-eGUI).
 
+# Supported Features
+What features would you like to see? Please create a Github issue.
+
 # Dependencies
 
 ```bash
